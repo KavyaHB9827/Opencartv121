@@ -1,0 +1,28 @@
+2026-11-19 12:30:41 DEBUG TestNG - suiteXmlPath: "C:\Users\dell\git\JavaSeleniumRepo\Opencartv121\master.xml"
+2026-11-19 12:35:27 DEBUG TestNG - suiteXmlPath: "C:\Users\dell\git\JavaSeleniumRepo\Opencartv121\master.xml"
+2026-11-19 12:36:03 INFO  TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest****** 
+2026-11-19 12:36:03 INFO  TC001_AccountRegistrationTest - **** Clicked on Myaccount link****
+2026-11-19 12:36:04 INFO  TC001_AccountRegistrationTest - **** Clicked on Register link****
+2026-11-19 12:36:04 INFO  TC001_AccountRegistrationTest - **** Providing customer details****
+2026-11-19 12:36:09 DEBUG TestNG - suiteXmlPath: "C:\Users\dell\git\JavaSeleniumRepo\Opencartv121\master.xml"
+2026-11-19 12:36:09 INFO  TC001_AccountRegistrationTest - **** Validatimg expected message****
+2026-11-19 12:36:09 INFO  TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****  
+2026-11-19 12:36:23 INFO  TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest****** 
+2026-11-19 12:36:23 INFO  TC002_LoginTest - ***** Starting TC002_LoginTest*****
+2026-11-19 12:36:24 INFO  TC001_AccountRegistrationTest - **** Clicked on Myaccount link****
+2026-11-19 12:36:26 INFO  TC001_AccountRegistrationTest - **** Clicked on Register link****
+2026-11-19 12:36:26 INFO  TC001_AccountRegistrationTest - **** Providing customer details****
+2026-11-19 12:36:28 INFO  TC002_LoginTest - ***** Finished TC002_LoginTest*****
+2026-11-19 12:36:28 INFO  TC001_AccountRegistrationTest - **** Validatimg expected message****
+2026-11-19 12:36:28 INFO  TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****  
+2026-11-19 12:36:40 INFO  TC002_LoginTest - ***** Starting TC002_LoginTest*****
+2026-11-19 12:36:43 INFO  TC002_LoginTest - ***** Finished TC002_LoginTest*****
+2026-11-19 13:33:42 DEBUG TestNG - suiteXmlPath: "C:\Users\dell\git\JavaSeleniumRepo\Opencartv121\master.xml"
+2026-11-19 13:34:24 INFO  TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest****** 
+2026-11-19 13:34:25 INFO  TC001_AccountRegistrationTest - **** Clicked on Myaccount link****
+2026-11-19 13:34:27 INFO  TC001_AccountRegistrationTest - **** Clicked on Register link****
+2026-11-19 13:34:27 INFO  TC001_AccountRegistrationTest - **** Providing customer details****
+2026-11-19 13:34:35 INFO  TC001_AccountRegistrationTest - **** Validatimg expected message****
+2026-11-19 13:34:35 INFO  TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****  
+2026-11-19 13:34:57 INFO  TC002_LoginTest - ***** Starting TC002_LoginTest*****
+2026-11-19 13:35:06 INFO  TC002_LoginTest - ***** Finished TC002_LoginTest*****
